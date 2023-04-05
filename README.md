@@ -4,8 +4,11 @@ The objective of this project is to just be a demo of projecting 3D objects in R
 
 The best and most up to date version is in the file 3dProjectionSim.py
 Going into the file, you can modify the settings to change:
-the object dimensions    
+
+the object dimensions
+
 plane of the projection
+
 rotation speed and direction.
 
 ![](projection.gif)
