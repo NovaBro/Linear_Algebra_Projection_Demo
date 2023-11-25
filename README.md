@@ -9,6 +9,7 @@ the object dimensions, plane of the projection, rotation speed and direction.
 ![](projection.gif)
 
 The yellow axis are the basis vectors of the plane, the blue object is 3d, the green object is the projection, and magenta is the axis of rotation.
+In simpler terms, the green object is the "shadow" of the blue object.
 
 I have included an older version of this project just to show some of the learning process and different ways of displaying the projection.
 
